@@ -1,8 +1,8 @@
-package Relationships;
+package Entities;
 
 public class StoreEmployeeWorks {
 
-    public int StoreID;
+    public String StoreID;
 
     public String EmployeeFirstName;
     public String EmployeeLastName;
