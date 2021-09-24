@@ -17,11 +17,12 @@ public class PersonPhoneGenerator {
     public static ArrayList<Object> storeEmployees= new ArrayList<>();
     public static ArrayList<Object> stores= new ArrayList<>();
     public static ArrayList<Object> storeEmployeeWorks= new ArrayList<>();
+    public static ArrayList<Object> customers= new ArrayList<>();
 
     public static void main(String []args) throws IOException {
 
-        //String path="/home/morteza/Documents/Dataset/old data/Person.csv";
-        String path="c:/morteza/3DB3 Dataset";
+        String path="/home/morteza/Documents/3DB3 Dataset";
+        //String path="c:/morteza/3DB3 Dataset";
 
 
         HashMap<String,Person> personsByID=new HashMap<>();
@@ -72,6 +73,7 @@ public class PersonPhoneGenerator {
         addStoreOwner(10);
         addStoreEmployee(70);
         addStoreRelations();
+        addCustomers((int)(persons.size()*0.85));
 
 
 
@@ -81,6 +83,35 @@ public class PersonPhoneGenerator {
         hammer.writeToFile(path+"/StoreOwner.csv",storeOwners);
         hammer.writeToFile(path+"/StoreEmployee.csv",storeEmployees);
         hammer.writeToFile(path+"/StoreEmployeeWorks.csv",storeEmployeeWorks);
+        hammer.writeToFile(path+"/Customer.csv",customers);
+    }
+
+    public static void addCustomers(int size)
+    {
+        Random r=new Random();
+        Set<Integer> selected=new HashSet<>();
+        for (int i=0;i<size;i++)
+        {
+            while (true)
+            {
+                int index=r.nextInt(persons.size());
+                if(!selected.contains(index))
+                {
+                    selected.add(index);
+                    Customer customer=new Customer();
+                    customer.FirstName=((Person)persons.get(index)).FirstName;
+                    customer.LastName=((Person)persons.get(index)).LastName;
+                    customer.DateOfBirth=((Person)persons.get(index)).DateOfBirth;
+                    String randomMembership=String.valueOf(r.nextInt(10000000));
+                    int len=randomMembership.length();
+                    for (int j=len;j<=8;j++)
+                        randomMembership="0"+randomMembership;
+                    customer.Membership = randomMembership;
+                    customers.add(customer);
+                    break;
+                }
+            }
+        }
     }
 
     public static void addStoreRelations()
