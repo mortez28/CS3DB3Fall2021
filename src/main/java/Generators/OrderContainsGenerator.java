@@ -77,12 +77,12 @@ public class OrderContainsGenerator {
         {
             selected.clear();
             Order order=(Order) obj;
-            int numberOfProducts=r.nextInt(6)+1;
+            int numberOfProducts=r.nextInt(4)+1;
             for (int i=0;i<numberOfProducts;i++) {
                 OrderContains details=new OrderContains();
                 details.OrderID=order.OrderID;
                 while (true) {
-                    Product p=(Product) products.get(r.nextInt(products.size()-1));
+                    Product p=(Product) products.get(r.nextInt(products.size()-10));
                     if (!selected.contains(p.ProductID)) {
                         details.ProductID=p.ProductID;
                         details.Quantity=String.valueOf(r.nextInt(4)+1);
