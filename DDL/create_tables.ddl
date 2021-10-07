@@ -95,8 +95,8 @@ create table Shipment(
 create table HasShipment(
 	TrackingNumber varchar(15) not null,
     OrderID varchar(12) not null,
-	primary key (TrackingNumber,OrderID)
-    foreign key (TrackingNumber) references Shipment (TrackingNumber) on delete cascade
+	primary key (TrackingNumber,OrderID),
+    foreign key (TrackingNumber) references Shipment (TrackingNumber) on delete cascade,
     foreign key (OrderID) references Order (OrderID) on delete cascade
 );
 
@@ -111,7 +111,7 @@ create table Store(
     OwnerFirstName varchar(60) not null,
     OwnerLastName varchar(60) not null,
     OwnerDoB DATE  not null,
-	primary key (StoreID)
+	primary key (StoreID),
     foreign key (OwnerFirstName, OwnerLastName, OwnerDoB) references StoreOwner (FirstName, LastName, DateOfBirth) on delete cascade
 );
 
@@ -123,8 +123,8 @@ create table Works(
     EmployeeFirstName varchar(60) not null,
     EmployeeLastName varchar(60) not null,
     EmployeeDoB DATE  not null,
-	primary key (StoreID,EmployeeFirstName,EmployeeLastName,EmployeeDoB)
-    foreign key (EmployeeFirstName, EmployeeLastName, EmployeeDoB) references StoreEmployee (FirstName, LastName, DateOfBirth) on delete cascade
+	primary key (StoreID,EmployeeFirstName,EmployeeLastName,EmployeeDoB),
+    foreign key (EmployeeFirstName, EmployeeLastName, EmployeeDoB) references StoreEmployee (FirstName, LastName, DateOfBirth) on delete cascade,
     foreign key (StoreID) references Store (StoreID) on delete cascade
 );
 
@@ -150,9 +150,9 @@ CREATE TABLE Product (
 create table OrderContains(
     OrderID varchar(12) not null,
     ProductID int not null,
-    Quantity INTEGER,
-	primary key (OrderID,ProductID)
-    foreign key (OrderID) references Order (OrderID) on delete cascade
+    Quantity int,
+	primary key (OrderID,ProductID),
+    foreign key (OrderID) references Order (OrderID) on delete cascade,
     foreign key (ProductID) references Product (ProductID) on delete cascade
 );
 
@@ -165,7 +165,7 @@ CREATE TABLE ProductCategory (
     Name varchar(255) not null,
     Description varchar(255) not null,
     primary key (ProductCategoryID)
-)
+);
 
 ------------------------------------------------
 --  DDL Statements for table BelongsTo
@@ -174,10 +174,10 @@ CREATE TABLE ProductCategory (
 CREATE TABLE BelongsTo (
     ProductCategoryID int not null,
     ProductID int not null,
-    primary key (ProductCategoryID,ProductID)
+    primary key (ProductCategoryID,ProductID),
     foreign key (ProductCategoryID) references ProductCategory (ProductCategoryID) on delete cascade,
-    foreign key (ProductID) references Product (ProductID) on delete cascade,
-)
+    foreign key (ProductID) references Product (ProductID) on delete cascade
+);
 
 ------------------------------------------------
 --  DDL Statements for table Promotion
@@ -189,8 +189,8 @@ CREATE TABLE Promotion (
     EndDate date not null,
     ProductID int not null,
     primary key (Name,StartDate,EndDate,ProductID),
-    foreign key (ProductID) references Product (ProductID) on delete cascade,
-)
+    foreign key (ProductID) references Product (ProductID) on delete cascade
+);
 
 ------------------------------------------------
 --  DDL Statements for table Warranty
@@ -201,7 +201,7 @@ CREATE TABLE Warranty (
     Type varchar(255) not null,
     Duration int not null,
     primary key (WarrantyID)
-)
+);
 
 ------------------------------------------------
 --  DDL Statements for table HasWarranty
@@ -212,8 +212,8 @@ CREATE TABLE HasWarranty (
     WarrantyID int not null,
     primary key (ProductID,WarrantyID),
     foreign key (ProductID) references Product (ProductID) on delete cascade,
-    foreign key (WarrantyID) references Warranty (WarrantyID) on delete cascade,
-)
+    foreign key (WarrantyID) references Warranty (WarrantyID) on delete cascade
+);
 
 ------------------------------------------------
 --  DDL Statements for table WriteReview
@@ -228,5 +228,5 @@ CREATE TABLE WriteReview (
     Comment varchar(2000) not null,
     primary key (FirstName,LastName,DateOfBirth,ProductID),
     foreign key (FirstName,LastName,DateOfBirth) references Person (FirstName,LastName,DateOfBirth) on delete cascade,
-    foreign key (ProductID) references Product (ProductID) on delete cascade,
+    foreign key (ProductID) references Product (ProductID) on delete cascade
 );
