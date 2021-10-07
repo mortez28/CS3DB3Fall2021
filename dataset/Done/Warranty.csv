@@ -1,0 +1,1001 @@
+WarrantyID,Type,Duration
+1,Warranty of Fitness For A Particular Purpose,540
+2,Warranty of Title,810
+3,Warranty Of Habitability,480
+4,Guaranteed Ability To Repair,720
+5,More Comprehensive Coverage,1680
+6,Peace of Mind,660
+7,Savings,1740
+8,Increased Resale Value,1800
+9,Warranty of Fitness For A Particular Purpose,240
+10,Warranty of Title,60
+11,Warranty Of Habitability,870
+12,Guaranteed Ability To Repair,1470
+13,More Comprehensive Coverage,1560
+14,Peace of Mind,570
+15,Savings,390
+16,Increased Resale Value,720
+17,Warranty of Fitness For A Particular Purpose,1380
+18,Warranty of Title,1650
+19,Warranty Of Habitability,1470
+20,Guaranteed Ability To Repair,150
+21,More Comprehensive Coverage,1620
+22,Peace of Mind,900
+23,Savings,1740
+24,Increased Resale Value,510
+25,Warranty of Fitness For A Particular Purpose,1380
+26,Warranty of Title,1500
+27,Warranty Of Habitability,420
+28,Guaranteed Ability To Repair,930
+29,More Comprehensive Coverage,360
+30,Peace of Mind,270
+31,Savings,1230
+32,Increased Resale Value,270
+33,Warranty of Fitness For A Particular Purpose,180
+34,Warranty of Title,1710
+35,Warranty Of Habitability,90
+36,Guaranteed Ability To Repair,930
+37,More Comprehensive Coverage,990
+38,Peace of Mind,1230
+39,Savings,450
+40,Increased Resale Value,1410
+41,Warranty of Fitness For A Particular Purpose,960
+42,Warranty of Title,1530
+43,Warranty Of Habitability,1830
+44,Guaranteed Ability To Repair,840
+45,More Comprehensive Coverage,480
+46,Peace of Mind,690
+47,Savings,960
+48,Increased Resale Value,1020
+49,Warranty of Fitness For A Particular Purpose,810
+50,Warranty of Title,1080
+51,Warranty Of Habitability,1140
+52,Guaranteed Ability To Repair,1080
+53,More Comprehensive Coverage,600
+54,Peace of Mind,1680
+55,Savings,210
+56,Increased Resale Value,1290
+57,Warranty of Fitness For A Particular Purpose,930
+58,Warranty of Title,360
+59,Warranty Of Habitability,1770
+60,Guaranteed Ability To Repair,360
+61,More Comprehensive Coverage,150
+62,Peace of Mind,1590
+63,Savings,1440
+64,Increased Resale Value,60
+65,Warranty of Fitness For A Particular Purpose,450
+66,Warranty of Title,480
+67,Warranty Of Habitability,690
+68,Guaranteed Ability To Repair,1650
+69,More Comprehensive Coverage,780
+70,Peace of Mind,150
+71,Savings,840
+72,Increased Resale Value,90
+73,Warranty of Fitness For A Particular Purpose,840
+74,Warranty of Title,1800
+75,Warranty Of Habitability,1380
+76,Guaranteed Ability To Repair,960
+77,More Comprehensive Coverage,210
+78,Peace of Mind,690
+79,Savings,660
+80,Increased Resale Value,1440
+81,Warranty of Fitness For A Particular Purpose,1470
+82,Warranty of Title,810
+83,Warranty Of Habitability,720
+84,Guaranteed Ability To Repair,390
+85,More Comprehensive Coverage,30
+86,Peace of Mind,930
+87,Savings,1500
+88,Increased Resale Value,420
+89,Warranty of Fitness For A Particular Purpose,840
+90,Warranty of Title,60
+91,Warranty Of Habitability,900
+92,Guaranteed Ability To Repair,420
+93,More Comprehensive Coverage,90
+94,Peace of Mind,390
+95,Savings,750
+96,Increased Resale Value,1050
+97,Warranty of Fitness For A Particular Purpose,1560
+98,Warranty of Title,210
+99,Warranty Of Habitability,420
+100,Guaranteed Ability To Repair,390
+101,More Comprehensive Coverage,900
+102,Peace of Mind,570
+103,Savings,360
+104,Increased Resale Value,1620
+105,Warranty of Fitness For A Particular Purpose,1800
+106,Warranty of Title,1710
+107,Warranty Of Habitability,750
+108,Guaranteed Ability To Repair,1260
+109,More Comprehensive Coverage,300
+110,Peace of Mind,330
+111,Savings,540
+112,Increased Resale Value,330
+113,Warranty of Fitness For A Particular Purpose,1110
+114,Warranty of Title,120
+115,Warranty Of Habitability,120
+116,Guaranteed Ability To Repair,1200
+117,More Comprehensive Coverage,1620
+118,Peace of Mind,630
+119,Savings,630
+120,Increased Resale Value,780
+121,Warranty of Fitness For A Particular Purpose,1800
+122,Warranty of Title,720
+123,Warranty Of Habitability,600
+124,Guaranteed Ability To Repair,1110
+125,More Comprehensive Coverage,180
+126,Peace of Mind,690
+127,Savings,180
+128,Increased Resale Value,540
+129,Warranty of Fitness For A Particular Purpose,1110
+130,Warranty of Title,1200
+131,Warranty Of Habitability,570
+132,Guaranteed Ability To Repair,390
+133,More Comprehensive Coverage,1530
+134,Peace of Mind,870
+135,Savings,300
+136,Increased Resale Value,450
+137,Warranty of Fitness For A Particular Purpose,1500
+138,Warranty of Title,240
+139,Warranty Of Habitability,1530
+140,Guaranteed Ability To Repair,750
+141,More Comprehensive Coverage,1530
+142,Peace of Mind,1800
+143,Savings,60
+144,Increased Resale Value,1500
+145,Warranty of Fitness For A Particular Purpose,1740
+146,Warranty of Title,210
+147,Warranty Of Habitability,1530
+148,Guaranteed Ability To Repair,990
+149,More Comprehensive Coverage,1110
+150,Peace of Mind,450
+151,Savings,1500
+152,Increased Resale Value,30
+153,Warranty of Fitness For A Particular Purpose,210
+154,Warranty of Title,30
+155,Warranty Of Habitability,1620
+156,Guaranteed Ability To Repair,1230
+157,More Comprehensive Coverage,330
+158,Peace of Mind,150
+159,Savings,1290
+160,Increased Resale Value,210
+161,Warranty of Fitness For A Particular Purpose,750
+162,Warranty of Title,1770
+163,Warranty Of Habitability,690
+164,Guaranteed Ability To Repair,1620
+165,More Comprehensive Coverage,1500
+166,Peace of Mind,1410
+167,Savings,870
+168,Increased Resale Value,1440
+169,Warranty of Fitness For A Particular Purpose,660
+170,Warranty of Title,300
+171,Warranty Of Habitability,1410
+172,Guaranteed Ability To Repair,1380
+173,More Comprehensive Coverage,810
+174,Peace of Mind,120
+175,Savings,240
+176,Increased Resale Value,1740
+177,Warranty of Fitness For A Particular Purpose,1260
+178,Warranty of Title,1650
+179,Warranty Of Habitability,960
+180,Guaranteed Ability To Repair,1050
+181,More Comprehensive Coverage,1200
+182,Peace of Mind,1500
+183,Savings,1710
+184,Increased Resale Value,1320
+185,Warranty of Fitness For A Particular Purpose,540
+186,Warranty of Title,1650
+187,Warranty Of Habitability,630
+188,Guaranteed Ability To Repair,1170
+189,More Comprehensive Coverage,720
+190,Peace of Mind,750
+191,Savings,1710
+192,Increased Resale Value,930
+193,Warranty of Fitness For A Particular Purpose,1560
+194,Warranty of Title,1440
+195,Warranty Of Habitability,1110
+196,Guaranteed Ability To Repair,1080
+197,More Comprehensive Coverage,270
+198,Peace of Mind,660
+199,Savings,480
+200,Increased Resale Value,1140
+201,Warranty of Fitness For A Particular Purpose,240
+202,Warranty of Title,1200
+203,Warranty Of Habitability,450
+204,Guaranteed Ability To Repair,1140
+205,More Comprehensive Coverage,990
+206,Peace of Mind,390
+207,Savings,1200
+208,Increased Resale Value,1710
+209,Warranty of Fitness For A Particular Purpose,720
+210,Warranty of Title,1530
+211,Warranty Of Habitability,690
+212,Guaranteed Ability To Repair,60
+213,More Comprehensive Coverage,1050
+214,Peace of Mind,60
+215,Savings,1110
+216,Increased Resale Value,960
+217,Warranty of Fitness For A Particular Purpose,750
+218,Warranty of Title,690
+219,Warranty Of Habitability,150
+220,Guaranteed Ability To Repair,1380
+221,More Comprehensive Coverage,300
+222,Peace of Mind,1350
+223,Savings,1350
+224,Increased Resale Value,270
+225,Warranty of Fitness For A Particular Purpose,60
+226,Warranty of Title,540
+227,Warranty Of Habitability,1140
+228,Guaranteed Ability To Repair,60
+229,More Comprehensive Coverage,1590
+230,Peace of Mind,330
+231,Savings,330
+232,Increased Resale Value,1050
+233,Warranty of Fitness For A Particular Purpose,90
+234,Warranty of Title,1800
+235,Warranty Of Habitability,960
+236,Guaranteed Ability To Repair,300
+237,More Comprehensive Coverage,870
+238,Peace of Mind,390
+239,Savings,1680
+240,Increased Resale Value,1650
+241,Warranty of Fitness For A Particular Purpose,810
+242,Warranty of Title,510
+243,Warranty Of Habitability,450
+244,Guaranteed Ability To Repair,330
+245,More Comprehensive Coverage,1800
+246,Peace of Mind,990
+247,Savings,1320
+248,Increased Resale Value,930
+249,Warranty of Fitness For A Particular Purpose,240
+250,Warranty of Title,1230
+251,Warranty Of Habitability,990
+252,Guaranteed Ability To Repair,1440
+253,More Comprehensive Coverage,270
+254,Peace of Mind,660
+255,Savings,360
+256,Increased Resale Value,1500
+257,Warranty of Fitness For A Particular Purpose,1350
+258,Warranty of Title,600
+259,Warranty Of Habitability,180
+260,Guaranteed Ability To Repair,1140
+261,More Comprehensive Coverage,360
+262,Peace of Mind,930
+263,Savings,570
+264,Increased Resale Value,300
+265,Warranty of Fitness For A Particular Purpose,30
+266,Warranty of Title,840
+267,Warranty Of Habitability,420
+268,Guaranteed Ability To Repair,180
+269,More Comprehensive Coverage,720
+270,Peace of Mind,810
+271,Savings,1260
+272,Increased Resale Value,1380
+273,Warranty of Fitness For A Particular Purpose,210
+274,Warranty of Title,1230
+275,Warranty Of Habitability,1230
+276,Guaranteed Ability To Repair,1620
+277,More Comprehensive Coverage,240
+278,Peace of Mind,1260
+279,Savings,30
+280,Increased Resale Value,240
+281,Warranty of Fitness For A Particular Purpose,540
+282,Warranty of Title,900
+283,Warranty Of Habitability,1290
+284,Guaranteed Ability To Repair,1530
+285,More Comprehensive Coverage,1770
+286,Peace of Mind,1110
+287,Savings,1110
+288,Increased Resale Value,600
+289,Warranty of Fitness For A Particular Purpose,480
+290,Warranty of Title,1140
+291,Warranty Of Habitability,930
+292,Guaranteed Ability To Repair,660
+293,More Comprehensive Coverage,210
+294,Peace of Mind,1560
+295,Savings,1830
+296,Increased Resale Value,1110
+297,Warranty of Fitness For A Particular Purpose,1260
+298,Warranty of Title,900
+299,Warranty Of Habitability,210
+300,Guaranteed Ability To Repair,1440
+301,More Comprehensive Coverage,150
+302,Peace of Mind,690
+303,Savings,690
+304,Increased Resale Value,30
+305,Warranty of Fitness For A Particular Purpose,1200
+306,Warranty of Title,1170
+307,Warranty Of Habitability,330
+308,Guaranteed Ability To Repair,600
+309,More Comprehensive Coverage,1530
+310,Peace of Mind,1200
+311,Savings,1230
+312,Increased Resale Value,690
+313,Warranty of Fitness For A Particular Purpose,1230
+314,Warranty of Title,1350
+315,Warranty Of Habitability,180
+316,Guaranteed Ability To Repair,1080
+317,More Comprehensive Coverage,510
+318,Peace of Mind,1800
+319,Savings,1560
+320,Increased Resale Value,1620
+321,Warranty of Fitness For A Particular Purpose,990
+322,Warranty of Title,150
+323,Warranty Of Habitability,840
+324,Guaranteed Ability To Repair,1260
+325,More Comprehensive Coverage,360
+326,Peace of Mind,930
+327,Savings,1320
+328,Increased Resale Value,570
+329,Warranty of Fitness For A Particular Purpose,570
+330,Warranty of Title,810
+331,Warranty Of Habitability,1680
+332,Guaranteed Ability To Repair,630
+333,More Comprehensive Coverage,510
+334,Peace of Mind,1620
+335,Savings,1020
+336,Increased Resale Value,1560
+337,Warranty of Fitness For A Particular Purpose,1650
+338,Warranty of Title,360
+339,Warranty Of Habitability,600
+340,Guaranteed Ability To Repair,1740
+341,More Comprehensive Coverage,1110
+342,Peace of Mind,1680
+343,Savings,600
+344,Increased Resale Value,1560
+345,Warranty of Fitness For A Particular Purpose,240
+346,Warranty of Title,1410
+347,Warranty Of Habitability,1230
+348,Guaranteed Ability To Repair,540
+349,More Comprehensive Coverage,1650
+350,Peace of Mind,510
+351,Savings,510
+352,Increased Resale Value,1230
+353,Warranty of Fitness For A Particular Purpose,1530
+354,Warranty of Title,630
+355,Warranty Of Habitability,900
+356,Guaranteed Ability To Repair,840
+357,More Comprehensive Coverage,180
+358,Peace of Mind,1380
+359,Savings,870
+360,Increased Resale Value,630
+361,Warranty of Fitness For A Particular Purpose,1710
+362,Warranty of Title,1140
+363,Warranty Of Habitability,870
+364,Guaranteed Ability To Repair,1530
+365,More Comprehensive Coverage,1080
+366,Peace of Mind,1770
+367,Savings,30
+368,Increased Resale Value,660
+369,Warranty of Fitness For A Particular Purpose,1410
+370,Warranty of Title,1770
+371,Warranty Of Habitability,780
+372,Guaranteed Ability To Repair,1560
+373,More Comprehensive Coverage,750
+374,Peace of Mind,450
+375,Savings,1140
+376,Increased Resale Value,720
+377,Warranty of Fitness For A Particular Purpose,480
+378,Warranty of Title,1080
+379,Warranty Of Habitability,1800
+380,Guaranteed Ability To Repair,390
+381,More Comprehensive Coverage,780
+382,Peace of Mind,420
+383,Savings,900
+384,Increased Resale Value,1080
+385,Warranty of Fitness For A Particular Purpose,1350
+386,Warranty of Title,1230
+387,Warranty Of Habitability,570
+388,Guaranteed Ability To Repair,30
+389,More Comprehensive Coverage,240
+390,Peace of Mind,480
+391,Savings,510
+392,Increased Resale Value,1080
+393,Warranty of Fitness For A Particular Purpose,1350
+394,Warranty of Title,1080
+395,Warranty Of Habitability,1230
+396,Guaranteed Ability To Repair,1710
+397,More Comprehensive Coverage,1470
+398,Peace of Mind,360
+399,Savings,450
+400,Increased Resale Value,1560
+401,Warranty of Fitness For A Particular Purpose,1230
+402,Warranty of Title,780
+403,Warranty Of Habitability,840
+404,Guaranteed Ability To Repair,540
+405,More Comprehensive Coverage,1200
+406,Peace of Mind,240
+407,Savings,510
+408,Increased Resale Value,660
+409,Warranty of Fitness For A Particular Purpose,420
+410,Warranty of Title,1740
+411,Warranty Of Habitability,180
+412,Guaranteed Ability To Repair,990
+413,More Comprehensive Coverage,750
+414,Peace of Mind,1020
+415,Savings,150
+416,Increased Resale Value,1290
+417,Warranty of Fitness For A Particular Purpose,450
+418,Warranty of Title,1350
+419,Warranty Of Habitability,1290
+420,Guaranteed Ability To Repair,720
+421,More Comprehensive Coverage,540
+422,Peace of Mind,60
+423,Savings,30
+424,Increased Resale Value,570
+425,Warranty of Fitness For A Particular Purpose,30
+426,Warranty of Title,240
+427,Warranty Of Habitability,1140
+428,Guaranteed Ability To Repair,1830
+429,More Comprehensive Coverage,450
+430,Peace of Mind,1260
+431,Savings,1260
+432,Increased Resale Value,1170
+433,Warranty of Fitness For A Particular Purpose,300
+434,Warranty of Title,330
+435,Warranty Of Habitability,1500
+436,Guaranteed Ability To Repair,1770
+437,More Comprehensive Coverage,900
+438,Peace of Mind,1200
+439,Savings,180
+440,Increased Resale Value,1530
+441,Warranty of Fitness For A Particular Purpose,1230
+442,Warranty of Title,1350
+443,Warranty Of Habitability,1050
+444,Guaranteed Ability To Repair,720
+445,More Comprehensive Coverage,750
+446,Peace of Mind,450
+447,Savings,270
+448,Increased Resale Value,960
+449,Warranty of Fitness For A Particular Purpose,1680
+450,Warranty of Title,690
+451,Warranty Of Habitability,870
+452,Guaranteed Ability To Repair,450
+453,More Comprehensive Coverage,330
+454,Peace of Mind,1800
+455,Savings,870
+456,Increased Resale Value,1710
+457,Warranty of Fitness For A Particular Purpose,1140
+458,Warranty of Title,1710
+459,Warranty Of Habitability,1140
+460,Guaranteed Ability To Repair,960
+461,More Comprehensive Coverage,1650
+462,Peace of Mind,630
+463,Savings,630
+464,Increased Resale Value,360
+465,Warranty of Fitness For A Particular Purpose,600
+466,Warranty of Title,180
+467,Warranty Of Habitability,210
+468,Guaranteed Ability To Repair,1110
+469,More Comprehensive Coverage,1650
+470,Peace of Mind,210
+471,Savings,1680
+472,Increased Resale Value,930
+473,Warranty of Fitness For A Particular Purpose,210
+474,Warranty of Title,1500
+475,Warranty Of Habitability,240
+476,Guaranteed Ability To Repair,660
+477,More Comprehensive Coverage,1320
+478,Peace of Mind,1260
+479,Savings,510
+480,Increased Resale Value,510
+481,Warranty of Fitness For A Particular Purpose,570
+482,Warranty of Title,240
+483,Warranty Of Habitability,1650
+484,Guaranteed Ability To Repair,300
+485,More Comprehensive Coverage,1170
+486,Peace of Mind,1470
+487,Savings,960
+488,Increased Resale Value,1080
+489,Warranty of Fitness For A Particular Purpose,1590
+490,Warranty of Title,990
+491,Warranty Of Habitability,1050
+492,Guaranteed Ability To Repair,750
+493,More Comprehensive Coverage,120
+494,Peace of Mind,1770
+495,Savings,420
+496,Increased Resale Value,1230
+497,Warranty of Fitness For A Particular Purpose,1380
+498,Warranty of Title,90
+499,Warranty Of Habitability,900
+500,Guaranteed Ability To Repair,510
+501,More Comprehensive Coverage,150
+502,Peace of Mind,1710
+503,Savings,1290
+504,Increased Resale Value,1500
+505,Warranty of Fitness For A Particular Purpose,1500
+506,Warranty of Title,300
+507,Warranty Of Habitability,90
+508,Guaranteed Ability To Repair,900
+509,More Comprehensive Coverage,1380
+510,Peace of Mind,120
+511,Savings,1170
+512,Increased Resale Value,1350
+513,Warranty of Fitness For A Particular Purpose,1020
+514,Warranty of Title,600
+515,Warranty Of Habitability,1140
+516,Guaranteed Ability To Repair,1500
+517,More Comprehensive Coverage,1740
+518,Peace of Mind,450
+519,Savings,780
+520,Increased Resale Value,1140
+521,Warranty of Fitness For A Particular Purpose,480
+522,Warranty of Title,810
+523,Warranty Of Habitability,1290
+524,Guaranteed Ability To Repair,1410
+525,More Comprehensive Coverage,360
+526,Peace of Mind,420
+527,Savings,810
+528,Increased Resale Value,600
+529,Warranty of Fitness For A Particular Purpose,1080
+530,Warranty of Title,870
+531,Warranty Of Habitability,870
+532,Guaranteed Ability To Repair,1560
+533,More Comprehensive Coverage,1440
+534,Peace of Mind,510
+535,Savings,870
+536,Increased Resale Value,180
+537,Warranty of Fitness For A Particular Purpose,450
+538,Warranty of Title,330
+539,Warranty Of Habitability,1380
+540,Guaranteed Ability To Repair,1020
+541,More Comprehensive Coverage,1470
+542,Peace of Mind,1320
+543,Savings,1080
+544,Increased Resale Value,1050
+545,Warranty of Fitness For A Particular Purpose,600
+546,Warranty of Title,630
+547,Warranty Of Habitability,1560
+548,Guaranteed Ability To Repair,1770
+549,More Comprehensive Coverage,780
+550,Peace of Mind,1440
+551,Savings,180
+552,Increased Resale Value,1560
+553,Warranty of Fitness For A Particular Purpose,180
+554,Warranty of Title,870
+555,Warranty Of Habitability,360
+556,Guaranteed Ability To Repair,270
+557,More Comprehensive Coverage,1140
+558,Peace of Mind,1830
+559,Savings,840
+560,Increased Resale Value,1050
+561,Warranty of Fitness For A Particular Purpose,180
+562,Warranty of Title,1740
+563,Warranty Of Habitability,30
+564,Guaranteed Ability To Repair,1440
+565,More Comprehensive Coverage,1710
+566,Peace of Mind,480
+567,Savings,750
+568,Increased Resale Value,690
+569,Warranty of Fitness For A Particular Purpose,480
+570,Warranty of Title,780
+571,Warranty Of Habitability,780
+572,Guaranteed Ability To Repair,600
+573,More Comprehensive Coverage,660
+574,Peace of Mind,960
+575,Savings,90
+576,Increased Resale Value,1290
+577,Warranty of Fitness For A Particular Purpose,1320
+578,Warranty of Title,1110
+579,Warranty Of Habitability,330
+580,Guaranteed Ability To Repair,90
+581,More Comprehensive Coverage,30
+582,Peace of Mind,1440
+583,Savings,270
+584,Increased Resale Value,1110
+585,Warranty of Fitness For A Particular Purpose,1110
+586,Warranty of Title,1620
+587,Warranty Of Habitability,1170
+588,Guaranteed Ability To Repair,210
+589,More Comprehensive Coverage,660
+590,Peace of Mind,990
+591,Savings,1230
+592,Increased Resale Value,210
+593,Warranty of Fitness For A Particular Purpose,720
+594,Warranty of Title,1680
+595,Warranty Of Habitability,90
+596,Guaranteed Ability To Repair,1530
+597,More Comprehensive Coverage,1740
+598,Peace of Mind,1380
+599,Savings,1260
+600,Increased Resale Value,900
+601,Warranty of Fitness For A Particular Purpose,870
+602,Warranty of Title,1530
+603,Warranty Of Habitability,630
+604,Guaranteed Ability To Repair,750
+605,More Comprehensive Coverage,1590
+606,Peace of Mind,1530
+607,Savings,660
+608,Increased Resale Value,1440
+609,Warranty of Fitness For A Particular Purpose,900
+610,Warranty of Title,1140
+611,Warranty Of Habitability,930
+612,Guaranteed Ability To Repair,1320
+613,More Comprehensive Coverage,480
+614,Peace of Mind,270
+615,Savings,1200
+616,Increased Resale Value,360
+617,Warranty of Fitness For A Particular Purpose,1680
+618,Warranty of Title,1290
+619,Warranty Of Habitability,90
+620,Guaranteed Ability To Repair,360
+621,More Comprehensive Coverage,300
+622,Peace of Mind,570
+623,Savings,1440
+624,Increased Resale Value,30
+625,Warranty of Fitness For A Particular Purpose,990
+626,Warranty of Title,1800
+627,Warranty Of Habitability,630
+628,Guaranteed Ability To Repair,720
+629,More Comprehensive Coverage,570
+630,Peace of Mind,1350
+631,Savings,510
+632,Increased Resale Value,90
+633,Warranty of Fitness For A Particular Purpose,120
+634,Warranty of Title,960
+635,Warranty Of Habitability,1110
+636,Guaranteed Ability To Repair,1200
+637,More Comprehensive Coverage,60
+638,Peace of Mind,630
+639,Savings,150
+640,Increased Resale Value,360
+641,Warranty of Fitness For A Particular Purpose,750
+642,Warranty of Title,1650
+643,Warranty Of Habitability,60
+644,Guaranteed Ability To Repair,1290
+645,More Comprehensive Coverage,360
+646,Peace of Mind,570
+647,Savings,930
+648,Increased Resale Value,570
+649,Warranty of Fitness For A Particular Purpose,240
+650,Warranty of Title,1770
+651,Warranty Of Habitability,1110
+652,Guaranteed Ability To Repair,1500
+653,More Comprehensive Coverage,1230
+654,Peace of Mind,1800
+655,Savings,480
+656,Increased Resale Value,1020
+657,Warranty of Fitness For A Particular Purpose,900
+658,Warranty of Title,240
+659,Warranty Of Habitability,1260
+660,Guaranteed Ability To Repair,1050
+661,More Comprehensive Coverage,1260
+662,Peace of Mind,180
+663,Savings,1710
+664,Increased Resale Value,840
+665,Warranty of Fitness For A Particular Purpose,1740
+666,Warranty of Title,900
+667,Warranty Of Habitability,1410
+668,Guaranteed Ability To Repair,750
+669,More Comprehensive Coverage,1320
+670,Peace of Mind,1800
+671,Savings,810
+672,Increased Resale Value,570
+673,Warranty of Fitness For A Particular Purpose,1410
+674,Warranty of Title,1590
+675,Warranty Of Habitability,1380
+676,Guaranteed Ability To Repair,600
+677,More Comprehensive Coverage,420
+678,Peace of Mind,570
+679,Savings,660
+680,Increased Resale Value,630
+681,Warranty of Fitness For A Particular Purpose,1350
+682,Warranty of Title,1650
+683,Warranty Of Habitability,240
+684,Guaranteed Ability To Repair,1680
+685,More Comprehensive Coverage,1380
+686,Peace of Mind,420
+687,Savings,540
+688,Increased Resale Value,930
+689,Warranty of Fitness For A Particular Purpose,1320
+690,Warranty of Title,1380
+691,Warranty Of Habitability,1590
+692,Guaranteed Ability To Repair,540
+693,More Comprehensive Coverage,930
+694,Peace of Mind,1140
+695,Savings,1530
+696,Increased Resale Value,840
+697,Warranty of Fitness For A Particular Purpose,930
+698,Warranty of Title,840
+699,Warranty Of Habitability,660
+700,Guaranteed Ability To Repair,1440
+701,More Comprehensive Coverage,180
+702,Peace of Mind,360
+703,Savings,270
+704,Increased Resale Value,210
+705,Warranty of Fitness For A Particular Purpose,810
+706,Warranty of Title,1350
+707,Warranty Of Habitability,1080
+708,Guaranteed Ability To Repair,1080
+709,More Comprehensive Coverage,150
+710,Peace of Mind,930
+711,Savings,510
+712,Increased Resale Value,1800
+713,Warranty of Fitness For A Particular Purpose,960
+714,Warranty of Title,1830
+715,Warranty Of Habitability,930
+716,Guaranteed Ability To Repair,1590
+717,More Comprehensive Coverage,810
+718,Peace of Mind,1560
+719,Savings,120
+720,Increased Resale Value,540
+721,Warranty of Fitness For A Particular Purpose,1290
+722,Warranty of Title,1020
+723,Warranty Of Habitability,1050
+724,Guaranteed Ability To Repair,1050
+725,More Comprehensive Coverage,1830
+726,Peace of Mind,1710
+727,Savings,30
+728,Increased Resale Value,1350
+729,Warranty of Fitness For A Particular Purpose,1350
+730,Warranty of Title,510
+731,Warranty Of Habitability,30
+732,Guaranteed Ability To Repair,390
+733,More Comprehensive Coverage,180
+734,Peace of Mind,90
+735,Savings,390
+736,Increased Resale Value,1830
+737,Warranty of Fitness For A Particular Purpose,90
+738,Warranty of Title,660
+739,Warranty Of Habitability,840
+740,Guaranteed Ability To Repair,180
+741,More Comprehensive Coverage,570
+742,Peace of Mind,1200
+743,Savings,1320
+744,Increased Resale Value,1680
+745,Warranty of Fitness For A Particular Purpose,1800
+746,Warranty of Title,1560
+747,Warranty Of Habitability,1620
+748,Guaranteed Ability To Repair,450
+749,More Comprehensive Coverage,660
+750,Peace of Mind,720
+751,Savings,1560
+752,Increased Resale Value,1680
+753,Warranty of Fitness For A Particular Purpose,1740
+754,Warranty of Title,1590
+755,Warranty Of Habitability,210
+756,Guaranteed Ability To Repair,180
+757,More Comprehensive Coverage,1470
+758,Peace of Mind,690
+759,Savings,1680
+760,Increased Resale Value,1200
+761,Warranty of Fitness For A Particular Purpose,720
+762,Warranty of Title,210
+763,Warranty Of Habitability,1830
+764,Guaranteed Ability To Repair,540
+765,More Comprehensive Coverage,210
+766,Peace of Mind,210
+767,Savings,1590
+768,Increased Resale Value,1410
+769,Warranty of Fitness For A Particular Purpose,810
+770,Warranty of Title,1770
+771,Warranty Of Habitability,780
+772,Guaranteed Ability To Repair,150
+773,More Comprehensive Coverage,1050
+774,Peace of Mind,1770
+775,Savings,750
+776,Increased Resale Value,1020
+777,Warranty of Fitness For A Particular Purpose,1260
+778,Warranty of Title,120
+779,Warranty Of Habitability,390
+780,Guaranteed Ability To Repair,1770
+781,More Comprehensive Coverage,1200
+782,Peace of Mind,1440
+783,Savings,1320
+784,Increased Resale Value,900
+785,Warranty of Fitness For A Particular Purpose,1620
+786,Warranty of Title,1740
+787,Warranty Of Habitability,1200
+788,Guaranteed Ability To Repair,1380
+789,More Comprehensive Coverage,1560
+790,Peace of Mind,1560
+791,Savings,1410
+792,Increased Resale Value,1410
+793,Warranty of Fitness For A Particular Purpose,510
+794,Warranty of Title,1800
+795,Warranty Of Habitability,1740
+796,Guaranteed Ability To Repair,510
+797,More Comprehensive Coverage,30
+798,Peace of Mind,1800
+799,Savings,1200
+800,Increased Resale Value,1230
+801,Warranty of Fitness For A Particular Purpose,780
+802,Warranty of Title,720
+803,Warranty Of Habitability,1410
+804,Guaranteed Ability To Repair,120
+805,More Comprehensive Coverage,30
+806,Peace of Mind,930
+807,Savings,1800
+808,Increased Resale Value,720
+809,Warranty of Fitness For A Particular Purpose,360
+810,Warranty of Title,1140
+811,Warranty Of Habitability,1770
+812,Guaranteed Ability To Repair,480
+813,More Comprehensive Coverage,1080
+814,Peace of Mind,1620
+815,Savings,660
+816,Increased Resale Value,450
+817,Warranty of Fitness For A Particular Purpose,1620
+818,Warranty of Title,1500
+819,Warranty Of Habitability,60
+820,Guaranteed Ability To Repair,1650
+821,More Comprehensive Coverage,990
+822,Peace of Mind,1380
+823,Savings,270
+824,Increased Resale Value,1800
+825,Warranty of Fitness For A Particular Purpose,60
+826,Warranty of Title,1290
+827,Warranty Of Habitability,900
+828,Guaranteed Ability To Repair,1650
+829,More Comprehensive Coverage,1500
+830,Peace of Mind,30
+831,Savings,1590
+832,Increased Resale Value,600
+833,Warranty of Fitness For A Particular Purpose,1770
+834,Warranty of Title,480
+835,Warranty Of Habitability,1170
+836,Guaranteed Ability To Repair,1140
+837,More Comprehensive Coverage,1080
+838,Peace of Mind,930
+839,Savings,720
+840,Increased Resale Value,1230
+841,Warranty of Fitness For A Particular Purpose,360
+842,Warranty of Title,1710
+843,Warranty Of Habitability,360
+844,Guaranteed Ability To Repair,600
+845,More Comprehensive Coverage,390
+846,Peace of Mind,480
+847,Savings,270
+848,Increased Resale Value,1620
+849,Warranty of Fitness For A Particular Purpose,600
+850,Warranty of Title,30
+851,Warranty Of Habitability,990
+852,Guaranteed Ability To Repair,1650
+853,More Comprehensive Coverage,840
+854,Peace of Mind,1200
+855,Savings,1020
+856,Increased Resale Value,1260
+857,Warranty of Fitness For A Particular Purpose,390
+858,Warranty of Title,1350
+859,Warranty Of Habitability,1260
+860,Guaranteed Ability To Repair,1800
+861,More Comprehensive Coverage,1740
+862,Peace of Mind,1380
+863,Savings,810
+864,Increased Resale Value,1440
+865,Warranty of Fitness For A Particular Purpose,1110
+866,Warranty of Title,1530
+867,Warranty Of Habitability,1650
+868,Guaranteed Ability To Repair,1020
+869,More Comprehensive Coverage,480
+870,Peace of Mind,1680
+871,Savings,990
+872,Increased Resale Value,60
+873,Warranty of Fitness For A Particular Purpose,750
+874,Warranty of Title,1440
+875,Warranty Of Habitability,1500
+876,Guaranteed Ability To Repair,150
+877,More Comprehensive Coverage,570
+878,Peace of Mind,1230
+879,Savings,1020
+880,Increased Resale Value,450
+881,Warranty of Fitness For A Particular Purpose,1020
+882,Warranty of Title,450
+883,Warranty Of Habitability,600
+884,Guaranteed Ability To Repair,990
+885,More Comprehensive Coverage,30
+886,Peace of Mind,510
+887,Savings,540
+888,Increased Resale Value,150
+889,Warranty of Fitness For A Particular Purpose,780
+890,Warranty of Title,90
+891,Warranty Of Habitability,210
+892,Guaranteed Ability To Repair,1470
+893,More Comprehensive Coverage,780
+894,Peace of Mind,150
+895,Savings,300
+896,Increased Resale Value,30
+897,Warranty of Fitness For A Particular Purpose,960
+898,Warranty of Title,1650
+899,Warranty Of Habitability,360
+900,Guaranteed Ability To Repair,1290
+901,More Comprehensive Coverage,900
+902,Peace of Mind,690
+903,Savings,1380
+904,Increased Resale Value,750
+905,Warranty of Fitness For A Particular Purpose,1530
+906,Warranty of Title,1200
+907,Warranty Of Habitability,1800
+908,Guaranteed Ability To Repair,1650
+909,More Comprehensive Coverage,570
+910,Peace of Mind,930
+911,Savings,60
+912,Increased Resale Value,600
+913,Warranty of Fitness For A Particular Purpose,960
+914,Warranty of Title,450
+915,Warranty Of Habitability,1380
+916,Guaranteed Ability To Repair,450
+917,More Comprehensive Coverage,1800
+918,Peace of Mind,150
+919,Savings,1380
+920,Increased Resale Value,1740
+921,Warranty of Fitness For A Particular Purpose,630
+922,Warranty of Title,1170
+923,Warranty Of Habitability,270
+924,Guaranteed Ability To Repair,1260
+925,More Comprehensive Coverage,870
+926,Peace of Mind,1440
+927,Savings,1140
+928,Increased Resale Value,1590
+929,Warranty of Fitness For A Particular Purpose,840
+930,Warranty of Title,270
+931,Warranty Of Habitability,630
+932,Guaranteed Ability To Repair,1740
+933,More Comprehensive Coverage,1230
+934,Peace of Mind,780
+935,Savings,1800
+936,Increased Resale Value,1170
+937,Warranty of Fitness For A Particular Purpose,390
+938,Warranty of Title,1050
+939,Warranty Of Habitability,180
+940,Guaranteed Ability To Repair,90
+941,More Comprehensive Coverage,570
+942,Peace of Mind,1290
+943,Savings,1500
+944,Increased Resale Value,1020
+945,Warranty of Fitness For A Particular Purpose,1290
+946,Warranty of Title,1830
+947,Warranty Of Habitability,810
+948,Guaranteed Ability To Repair,300
+949,More Comprehensive Coverage,480
+950,Peace of Mind,840
+951,Savings,210
+952,Increased Resale Value,90
+953,Warranty of Fitness For A Particular Purpose,1470
+954,Warranty of Title,1680
+955,Warranty Of Habitability,1320
+956,Guaranteed Ability To Repair,450
+957,More Comprehensive Coverage,930
+958,Peace of Mind,1050
+959,Savings,1260
+960,Increased Resale Value,1350
+961,Warranty of Fitness For A Particular Purpose,1470
+962,Warranty of Title,480
+963,Warranty Of Habitability,30
+964,Guaranteed Ability To Repair,1620
+965,More Comprehensive Coverage,600
+966,Peace of Mind,1350
+967,Savings,330
+968,Increased Resale Value,1200
+969,Warranty of Fitness For A Particular Purpose,1800
+970,Warranty of Title,150
+971,Warranty Of Habitability,270
+972,Guaranteed Ability To Repair,1470
+973,More Comprehensive Coverage,750
+974,Peace of Mind,270
+975,Savings,1740
+976,Increased Resale Value,750
+977,Warranty of Fitness For A Particular Purpose,360
+978,Warranty of Title,150
+979,Warranty Of Habitability,1170
+980,Guaranteed Ability To Repair,1680
+981,More Comprehensive Coverage,1020
+982,Peace of Mind,180
+983,Savings,420
+984,Increased Resale Value,180
+985,Warranty of Fitness For A Particular Purpose,480
+986,Warranty of Title,900
+987,Warranty Of Habitability,90
+988,Guaranteed Ability To Repair,1470
+989,More Comprehensive Coverage,1470
+990,Peace of Mind,1680
+991,Savings,1740
+992,Increased Resale Value,660
+993,Warranty of Fitness For A Particular Purpose,600
+994,Warranty of Title,1500
+995,Warranty Of Habitability,90
+996,Guaranteed Ability To Repair,1110
+997,More Comprehensive Coverage,1020
+998,Peace of Mind,450
+999,Savings,330
+1000,Increased Resale Value,1770
