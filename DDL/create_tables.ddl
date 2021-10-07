@@ -73,6 +73,8 @@ create table Order(
 	LastName varchar(60) not null,
 	DateOfBirth DATE  not null,
 	OrderID varchar(12) not null,
+	Date DATE,
+	Time varchar(15),
 	primary key (OrderID),
 	foreign key (FirstName, LastName, DateOfBirth) references Person (FirstName, LastName, DateOfBirth) on delete cascade
 );
@@ -111,6 +113,19 @@ create table Store(
     OwnerDoB DATE  not null,
 	primary key (StoreID)
     foreign key (OwnerFirstName, OwnerLastName, OwnerDoB) references StoreOwner (FirstName, LastName, DateOfBirth) on delete cascade
+);
+
+------------------------------------------------
+--  DDL Statements for table Works - StoreID,EmployeeFirstName,EmployeeLastName,EmployeeDoB
+------------------------------------------------
+create table Works(
+    StoreID int not null,
+    EmployeeFirstName varchar(60) not null,
+    EmployeeLastName varchar(60) not null,
+    EmployeeDoB DATE  not null,
+	primary key (StoreID,EmployeeFirstName,EmployeeLastName,EmployeeDoB)
+    foreign key (EmployeeFirstName, EmployeeLastName, EmployeeDoB) references StoreEmployee (FirstName, LastName, DateOfBirth) on delete cascade
+    foreign key (StoreID) references Store (StoreID) on delete cascade
 );
 
 ------------------------------------------------
