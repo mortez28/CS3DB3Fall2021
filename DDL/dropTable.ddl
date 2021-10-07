@@ -14,5 +14,6 @@ drop table Order;
 drop table Customer;
 drop table StoreEmployee;
 drop table StoreOwner;
+drop table Works;
 drop table Phone;
 drop table Person;

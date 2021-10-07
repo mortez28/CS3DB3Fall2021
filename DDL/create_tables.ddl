@@ -222,7 +222,7 @@ CREATE TABLE HasWarranty (
 CREATE TABLE WriteReview (
     FirstName varchar(60) not null,
     LastName varchar(60) not null,
-    DateOfBirth varchar(60) not null,
+    DateOfBirth Date not null,
     ProductID int not null,
     Star int not null,
     Comment varchar(2000) not null,
